@@ -1,5 +1,3 @@
-# src/expense_tracker.py
-
 import csv
 from expense import Expense
 from category import Category
